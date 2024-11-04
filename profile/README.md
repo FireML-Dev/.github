@@ -14,4 +14,6 @@ FlamingPhoe - Generates ideas and assists with coding.
 
 DaisyLib - A collection of classes for easier use of Paper's API.
 
+Firefly - A module-based plugin, providing helpful server features.
+
 EMFPiñata - A Piñata addon for the EvenMoreFish plugin.
