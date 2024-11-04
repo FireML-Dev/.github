@@ -12,8 +12,8 @@ FlamingPhoe - Generates ideas and assists with coding.
 
 ### About the projects
 
-DaisyLib - A collection of classes for easier use of Paper's API.
+[DaisyLib](https://github.com/FireML-Dev/DaisyLib) - A collection of classes for easier use of Paper's API.
 
-Firefly - A module-based plugin, providing helpful server features.
+[Firefly](https://github.com/FireML-Dev/Firefly) - A module-based plugin, providing helpful server features.
 
-EMFPiñata - A Piñata addon for the EvenMoreFish plugin.
+[EMFPiñata](https://github.com/FireML-Dev/EMFPinata) - A Piñata addon for the EvenMoreFish plugin.
