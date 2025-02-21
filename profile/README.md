@@ -8,7 +8,7 @@ FireML - The developer of all projects owned by this organization.
 
 Penguin - Assists with all non-java tasks as needed/requested.
 
-FlamingPhoe - Generates ideas and assists with coding.
+FlamingPheo - Generates ideas and assists with coding.
 
 ### About the projects
 
