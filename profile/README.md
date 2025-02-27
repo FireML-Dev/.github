@@ -2,7 +2,7 @@
 
 This is an organization for all of [@FireML](https://github.com/FireML)'s projects
 
-### About the members (Listed by join date to the organization)
+### About the members (Listed by join date)
 
 FireML - The developer of all projects owned by this organization.
 
@@ -14,6 +14,4 @@ FlamingPheo - Generates ideas and assists with coding.
 
 [DaisyLib](https://github.com/FireML-Dev/DaisyLib) - A collection of classes for easier use of Paper's API.
 
-[Firefly](https://github.com/FireML-Dev/Firefly) - A module-based plugin, providing helpful server features.
-
-[EMFPiñata](https://github.com/FireML-Dev/EMFPinata) - A Piñata addon for the EvenMoreFish plugin.
+[Firefly](https://github.com/FireML-Dev/Firefly) - A module-based plugin, providing helpful server features.yeah
