@@ -2,11 +2,7 @@
 
 This is an organization for all of [@FireML](https://github.com/FireML)'s projects
 
-### About the members (Listed by join date)
-
-FireML - The developer of all projects owned by this organization.
-
-### About the projects
+### Active Projects
 
 [DaisyLib](https://github.com/FireML-Dev/DaisyLib) - A collection of classes for easier use of Paper's API.
 
